@@ -118,7 +118,7 @@ your_server_ip  proj2.example.com
 
 ![img_3.png](img/img_3.png)
 
-Далее переходим в браузере по адресам http://proj1.example.com и http://proj2.example.com, и, как видим, все работает +
+Далее переходим в браузере по адресам [http://proj1.example.com](Project 1) и http://proj2.example.com, и, как видим, все работает +
 реализовано автоматическое перенаправление на https.
 
 ![img_4.png](img/img_4.png)
