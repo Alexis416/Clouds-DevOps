@@ -34,5 +34,8 @@ Google Cloud Datalab — это инструмент от Google Cloud Platform,
 
 #### Поставка метрик
 
-Yandex Unified Agent — агент для поставки дополнительных метрик виртуальных машин и пользовательских приложений в сервисе Yandex Monitoring. Он предназначен для передачи потоковых данных, представленных в виде сообщений, например, метрик или логов. Поток данных в Unified Agent называется сессией. Агент поддерживает: сбор системных метрик Linux (процессор, память, диск); поставку метрик в Yandex Monitoring; файловое хранилище для надежной доставки данных. Более подробно про него можно почитать [здесь](https://cloud.yandex.ru/docs/monitoring/concepts/data-collection/unified-agent/).
+[Yandex Unified Agent](https://cloud.yandex.ru/docs/monitoring/concepts/data-collection/unified-agent/) — агент для поставки дополнительных метрик виртуальных машин и пользовательских приложений в сервисе Yandex Monitoring. Он предназначен для передачи потоковых данных, представленных в виде сообщений, например, метрик или логов. Поток данных в Unified Agent называется сессией. Агент поддерживает: сбор системных метрик Linux (процессор, память, диск); поставку метрик в Yandex Monitoring; файловое хранилище для надежной доставки данных.
 
+#### Нагрузка и отказы
+
+В Yandex Monitoring можно отслеживать нагрузку и отказы с помощью такого сервиса, как [Application Load Balancer](https://cloud.yandex.ru/docs/application-load-balancer/).
