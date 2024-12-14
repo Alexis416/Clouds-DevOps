@@ -38,4 +38,4 @@ Google Cloud Datalab — это инструмент от Google Cloud Platform,
 
 #### Нагрузка и отказы
 
-В Yandex Monitoring можно отслеживать нагрузку и отказы с помощью такого сервиса, как [Application Load Balancer](https://cloud.yandex.ru/docs/application-load-balancer/).
+В Yandex Monitoring можно отслеживать нагрузку и отказы с помощью такого сервиса, как [Application Load Balancer](https://cloud.yandex.ru/docs/application-load-balancer/). С его помощью можно: распределять трафик между бэкендами приложений; обрабатывать TLS-трафик, а именно устанавливать соединения и терминировать TLS-сессии с помощью сертификатов из Yandex Certificate Manager; плавно переносить нагрузку с одной версии приложения на другую; организовывать защиту сервисов от злоумышленников с помощью ограничения поступающего трафика.
